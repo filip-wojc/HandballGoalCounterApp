@@ -52,4 +52,6 @@ The application connects to a local SQLite database via the Room database librar
 2. **Cloud Synchronization:** Enable data backup and synchronization across devices.
 3. **User Authentication:** Add support for login and user roles.
 
+### License
+This project is available for use under the MIT License.
 
